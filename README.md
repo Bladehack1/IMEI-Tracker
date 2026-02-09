@@ -1,7 +1,7 @@
-# IMEI Tracker v2.0
+# 💻 IMEI Tracker v2.0
 
-**IMEI Tracker** est un outil **éducatif** développé par **l’équipe BCZ**, créée au sein de **BCZ Academy** pour Termux.  
-L’outil permet de **simuler le suivi de téléphones Android et iPhone** afin d’apprendre la programmation Python et les concepts de géolocalisation **sans utiliser de données réelles**.  
+**IMEI Tracker** est un outil **éducatif** développé par **l’équipe BCZ**, au sein de **BCZ Academy**, pour Termux.  
+Il permet de **simuler le suivi de téléphones Android et iPhone** afin d’apprendre la programmation Python et les concepts de géolocalisation **sans utiliser de données réelles**.  
 
 Cet outil a été conçu **pour l’Afrique**, après que l’équipe ait constaté trop de vols et pertes de téléphones, afin de **sensibiliser et former les jeunes** à la cybersécurité et aux bonnes pratiques.
 
@@ -9,75 +9,62 @@ Cet outil a été conçu **pour l’Afrique**, après que l’équipe ait consta
 
 ## ⚠️ DISCLAIMER
 
+❌ **Usage réel interdit !**  
 - Cet outil est **strictement pédagogique** et **ne doit pas être utilisé pour espionner des appareils réels**.  
 - Ne jamais utiliser de vrais comptes Gmail ou Apple ID.  
 - L'auteur et **BCZ Academy** ne sont pas responsables de toute utilisation illégale.  
 
 ---
 
-## 🔹 Fonctionnalités
+## ✨ Fonctionnalités
 
-- Animations console style **Matrix** et **Cyberpunk**  
-- Simulation de tracking via **IMEI**  
-- Simulation de l’authentification Google / Apple  
-- Génération d’URL Google Maps pour visualiser la **position simulée**  
-- Interface interactive pour **Android** et **iPhone**  
-
----
-
-## 🔹 Objectifs pédagogiques
-
-- Former les jeunes africains à la **programmation Python** et aux scripts interactifs  
-- Comprendre les concepts de **géolocalisation simulée**  
-- Créer des animations console et interfaces utilisateur simples  
-- Sensibiliser à la **cybersécurité et à la prévention du vol de téléphones**  
-- Inspirer et encadrer filles et garçons au sein de la **team BCZ Academy**  
+- 🟢 Animations console style **Matrix** et **Cyberpunk**  
+- 📟 Simulation de tracking via **IMEI**  
+- 🔐 Simulation de l’authentification Google / Apple  
+- 🗺️ Génération d’URL Google Maps pour visualiser la **position simulée**  
+- 📱 Interface interactive pour **Android** et **iPhone**  
 
 ---
 
-## 🔹 Installation
+## 🎯 Objectifs pédagogiques
 
-- Animations console style **Matrix** et **Cyberpunk**  
-- Simulation de tracking via **IMEI**  
-- Simulation de l’authentification Google / Apple  
-- Génération d’URL Google Maps pour visualiser la **position simulée**  
-- Interface interactive pour **Android** et **iPhone**  
-
----
-
-## 🔹 Objectifs pédagogiques
-
-- Former les jeunes africains à la **programmation Python** et aux scripts interactifs  
-- Comprendre les concepts de **géolocalisation simulée**  
-- Créer des animations console et interfaces utilisateur simples  
-- Sensibiliser à la **cybersécurité et à la prévention du vol de téléphones**  
-- Inspirer et encadrer filles et garçons au sein de la **team BCZ Academy**  
+- 👨‍💻 Former les jeunes africains à la **programmation Python** et aux scripts interactifs  
+- 🌐 Comprendre les concepts de **géolocalisation simulée**  
+- 🎨 Créer des animations console et interfaces utilisateur simples  
+- 🛡️ Sensibiliser à la **cybersécurité et à la prévention du vol de téléphones**  
+- 👩‍🎓 Inspirer et encadrer filles et garçons au sein de la **team BCZ Academy**  
 
 ---
 
-## 🔹 Installation
+## 🛠 Installation
 
-1. Installer **Termux** sur Android.  
-2. Cloner le dépôt :
+1. Installer **Termux** sur Android  
+2. Cloner le dépôt :  
    ```bash
    git clone https://github.com/Bladehack1/IMEI-Tracker.git
    cd IMEI-Tracker
-Lancer le script :
-Copier le code
-Bash
-python3 imei_tracker.py
-🔹 Usage
-Lancer le script :
-Copier le code
-Bash
-python3 imei_tracker.py
-Sélectionner le type de téléphone : Android ou iPhone
-Entrer les informations simulées demandées (IMEI, email, Apple ID)
-Suivre les instructions à l’écran pour voir l’animation et l’URL de localisation simulée
-🔹 Badges (optionnel, à coller sur GitHub)
-� � �
-🔹 Licence
-Ce projet est sous MIT License.
-🔹 À propos de BCZ Academy
-BCZ Academy est une équipe africaine de cybersécurité et formation technologique qui, depuis 2023, forme et certifie des jeunes africains, filles et garçons, sur des compétences en programmation, sécurité informatique et hacking éthique.
-L’équipe a conçu ce projet pour apprendre, sensibiliser et protéger les jeunes face aux vols de téléphones et aux risques numériques.
+
+   🚀 Lance le script / Usage
+1. Ouvrir Termux sur ton appareil Android.
+2. Se placer dans le dossier du projet :
+    ```bash
+   cd IMEI-Tracker
+
+3. Lancer le script principal :
+   ```bash
+    python3 imei_tracker.py
+4. Choisir le type de téléphone :
+   ```bash
+   📱 Android
+    iPhone
+5. Entrer les informations simulées :
+   
+Pour Android : IMEI, Gmail, mot de passe simulé
+Pour iPhone : Apple ID, mot de passe simulé
+
+6. Suivre les instructions à l’écran :
+   
+● Voir les animations Matrix / Cyberpunk
+● Recevoir une URL Google Maps simulée de localisation
+
+7.Appuyer sur Entrée pour revenir au menu ou quitter le script.
