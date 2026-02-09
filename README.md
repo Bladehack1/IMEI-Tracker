@@ -42,3 +42,27 @@ Cet outil a été conçu **pour l’Afrique**, après que l’équipe ait consta
    ```bash
    git clone https://github.com/Bladehack1/IMEI-Tracker.git
    cd IMEI-Tracker
+3. Lancer le script :
+   ```bash
+   python3 imei_tracker.py
+🔹 Usage
+1. Lancer le script :
+   ```bash
+   Bash
+python3 imei_tracker.py
+
+2. Sélectionner le type de téléphone : Android ou iPhone
+
+3. Entrer les informations simulées demandées (IMEI, email, Apple ID)
+Suivre les instructions à l’écran pour voir l’animation et l’URL de localisation simulée
+🔹 Badges (optionnel, à coller sur GitHub)
+� � �
+
+🔹 Licence
+ 
+Ce projet est sous MIT License.
+🔹 À propos de BCZ Academy
+BCZ Academy est une équipe africaine de cybersécurité et formation technologique qui, depuis 2023, forme et certifie des jeunes africains, filles et garçons, sur des compétences en programmation, sécurité informatique et hacking éthique.
+L’équipe a conçu ce projet pour apprendre, sensibiliser et protéger les jeunes face aux vols de téléphones et aux risques numériques.
+Copier le code
+
