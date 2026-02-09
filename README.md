@@ -2,7 +2,7 @@
 ### 🔐 Educational Cybersecurity Tool (Termux Only)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Bladehack1/IMEI-Tracker/main/assets/bcz-banner.png" width="100%">
+  <img src="https://github.com/Bladehack1/IMEI-Tracker/raw/main/Screenshot_20260209-134256.png" width="100%" alt="IMEI Tracker Screenshot">
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@ pkg install python git -y
 git clone https://github.com/Bladehack1/IMEI-Tracker.git
 cd IMEI-Tracker
 python3 imei_tracker.py
-```
+
 ⚠️ Usage
 Éducatif uniquement — pas de suivi réel, pas d’usage illégal
 🔐 Licence
