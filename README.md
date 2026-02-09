@@ -50,9 +50,9 @@ Cet outil a été conçu **pour l’Afrique**, après que l’équipe ait consta
    ```bash
 python3 imei_tracker.py
 
-2. Sélectionner le type de téléphone : Android ou iPhone
+3. Sélectionner le type de téléphone : Android ou iPhone
 
-3. Entrer les informations simulées demandées (IMEI, email, Apple ID)
+4. Entrer les informations simulées demandées (IMEI, email, Apple ID)
 Suivre les instructions à l’écran pour voir l’animation et l’URL de localisation simulée
 🔹 Badges (optionnel, à coller sur GitHub)
 � � �
