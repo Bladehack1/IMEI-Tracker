@@ -68,3 +68,27 @@ Pour iPhone : Apple ID, mot de passe simulé
 ● Recevoir une URL Google Maps simulée de localisation
 
 7.Appuyer sur Entrée pour revenir au menu ou quitter le script.
+
+🧭 À suivre à l’écran
+Après avoir lancé le script :
+🖥️ Le banner BCZ / IMEI Tracker s’affiche
+→ animation cyber / matrix
+📋 Un menu apparaît
+→ choix du type de téléphone :
+1 📱 Android
+2 🍎 iPhone
+⌨️ Entrer les informations demandées (simulation)
+IMEI (15 chiffres – faux / test)
+Email ou Apple ID (fictif)
+Mot de passe simulé
+🔄 Traitement et animation
+vérification simulée
+chargement visuel
+messages pédagogiques
+📍 Résultat affiché
+coordonnées GPS simulées
+lien Google Maps
+statut du téléphone (perdu / retrouvé – simulation)
+🔁 Choix final
+Revenir au menu
+Quitter le programme
