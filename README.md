@@ -104,3 +104,12 @@ statut du téléphone (perdu / retrouvé – simulation)
 
 Revenir au menu
 Quitter le programme
+
+
+
+
+
+
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Termux](https://img.shields.io/badge/Termux-supported-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
