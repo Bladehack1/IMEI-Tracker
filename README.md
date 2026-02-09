@@ -1,111 +1,51 @@
-# 💻 IMEI Tracker v2.0
 
-**IMEI Tracker** est un outil **éducatif** développé par **l’équipe BCZ**, au sein de **BCZ Academy**, pour Termux.  
-Il permet de **simuler le suivi de téléphones Android et iPhone** afin d’apprendre la programmation Python et les concepts de géolocalisation **sans utiliser de données réelles**.  
+# 🛰️ IMEI Tracker v2.0
 
-Cet outil a été conçu **pour l’Afrique**, après que l’équipe ait constaté trop de vols et pertes de téléphones, afin de **sensibiliser et former les jeunes** à la cybersécurité et aux bonnes pratiques.
+![BCZ Academy Logo](https://your-logo-link.png)
 
----
-
-## ⚠️ DISCLAIMER
-
-❌ **Usage réel interdit !**  
-- Cet outil est **strictement pédagogique** et **ne doit pas être utilisé pour espionner des appareils réels**.  
-- Ne jamais utiliser de vrais comptes Gmail ou Apple ID.  
-- L'auteur et **BCZ Academy** ne sont pas responsables de toute utilisation illégale.  
+**Educational & Ethical Device Tracking Tool**  
+Developed by **BCZ Academy** for cybersecurity education in Africa 🇨🇲🌍
 
 ---
 
-## ✨ Fonctionnalités
+## 🚀 About
 
-- 🟢 Animations console style **Matrix** et **Cyberpunk**  
-- 📟 Simulation de tracking via **IMEI**  
-- 🔐 Simulation de l’authentification Google / Apple  
-- 🗺️ Génération d’URL Google Maps pour visualiser la **position simulée**  
-- 📱 Interface interactive pour **Android** et **iPhone**  
+IMEI Tracker v2.0 is a **Python-based tool** designed for **educational purposes only**.  
+It demonstrates real-world concepts of **device tracking** through safe simulations, helping students and enthusiasts understand how phone tracking works **without violating privacy or the law**.
 
----
-
-## 🎯 Objectifs pédagogiques
-
-- 👨‍💻 Former les jeunes africains à la **programmation Python** et aux scripts interactifs  
-- 🌐 Comprendre les concepts de **géolocalisation simulée**  
-- 🎨 Créer des animations console et interfaces utilisateur simples  
-- 🛡️ Sensibiliser à la **cybersécurité et à la prévention du vol de téléphones**  
-- 👩‍🎓 Inspirer et encadrer filles et garçons au sein de la **team BCZ Academy**  
+**Purpose:**  
+- Learn **Android & iPhone tracking concepts**  
+- Practice **cybersecurity skills responsibly**  
+- Understand **IMEI and device identification**  
 
 ---
 
-## 🛠 Installation
+## 📌 Features
 
-1. Installer **Termux** sur Android  
-2. Cloner le dépôt :  
-   ```bash
-   git clone https://github.com/Bladehack1/IMEI-Tracker.git
-   cd IMEI-Tracker
+- Interactive terminal interface with **Matrix & cyber animations**  
+- Android & iPhone tracking **simulations**  
+- **IMEI format validation**  
+- Redirection to **official services** for learning purposes  
+- **Educational & ethical use only**  
 
-   🚀 Lance le script / Usage
-1. Ouvrir Termux sur ton appareil Android.
-2. Se placer dans le dossier du projet :
-    ```bash
-   cd IMEI-Tracker
+---
 
-3. Lancer le script principal :
-   ```bash
-    python3 imei_tracker.py
-4. Choisir le type de téléphone :
-   ```bash
-   📱 Android
-    iPhone
-5. Entrer les informations simulées :
-   
-Pour Android : IMEI, Gmail, mot de passe simulé
-Pour iPhone : Apple ID, mot de passe simulé
+## ⚠️ Disclaimer
 
-6. Suivre les instructions à l’écran :
-   
-● Voir les animations Matrix / Cyberpunk
-● Recevoir une URL Google Maps simulée de localisation
+- Educational use only  
+- No real device intrusion  
+- No unauthorized tracking  
+- Use only with **permission and official platforms**  
+- © 2026 **BCZ Academy**
 
-7.Appuyer sur Entrée pour revenir au menu ou quitter le script.
+---
 
-🧭 À suivre à l’écran
+## 📝 Instructions
 
-Après avoir lancé le script :
-
-🖥️ Le banner BCZ / IMEI Tracker s’affiche
-→ animation cyber / matrix
-📋 Un menu apparaît
-
-→ choix du type de téléphone :
-
-1 📱 Android
-2 🍎 iPhone
-
-⌨️ Entrer les informations demandées (simulation)
-
-IMEI (15 chiffres – faux / test)
-Email ou Apple ID (fictif)
-Mot de passe simulé
-
-🔄 Traitement et animation
-
-vérification simulée
-chargement visuel
-messages pédagogiques
-
-📍 Résultat affiché
-
-coordonnées GPS simulées
-lien Google Maps
-statut du téléphone (perdu / retrouvé – simulation)
-
-🔁 Choix final
-
-Revenir au menu
-Quitter le programme
-
-
+1. Clone or download this repository  
+```bash
+git clone https://github.com/Bladehack1/IMEI-
+Tracker.git
 
 
 
