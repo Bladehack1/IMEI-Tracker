@@ -48,7 +48,6 @@ Cet outil a été conçu **pour l’Afrique**, après que l’équipe ait consta
 🔹 Usage
 1. Lancer le script :
    ```bash
-   Bash
 python3 imei_tracker.py
 
 2. Sélectionner le type de téléphone : Android ou iPhone
