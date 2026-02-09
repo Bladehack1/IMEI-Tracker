@@ -37,31 +37,47 @@ Cet outil a été conçu **pour l’Afrique**, après que l’équipe ait consta
 
 ## 🔹 Installation
 
+- Animations console style **Matrix** et **Cyberpunk**  
+- Simulation de tracking via **IMEI**  
+- Simulation de l’authentification Google / Apple  
+- Génération d’URL Google Maps pour visualiser la **position simulée**  
+- Interface interactive pour **Android** et **iPhone**  
+
+---
+
+## 🔹 Objectifs pédagogiques
+
+- Former les jeunes africains à la **programmation Python** et aux scripts interactifs  
+- Comprendre les concepts de **géolocalisation simulée**  
+- Créer des animations console et interfaces utilisateur simples  
+- Sensibiliser à la **cybersécurité et à la prévention du vol de téléphones**  
+- Inspirer et encadrer filles et garçons au sein de la **team BCZ Academy**  
+
+---
+
+## 🔹 Installation
+
 1. Installer **Termux** sur Android.  
 2. Cloner le dépôt :
    ```bash
    git clone https://github.com/Bladehack1/IMEI-Tracker.git
    cd IMEI-Tracker
-3. Lancer le script :
-   ```bash
-   python3 imei_tracker.py
-🔹 Usage
-1. Lancer le script :
-   ```bash
+Lancer le script :
+Copier le code
+Bash
 python3 imei_tracker.py
-
-3. Sélectionner le type de téléphone : Android ou iPhone
-
-4. Entrer les informations simulées demandées (IMEI, email, Apple ID)
+🔹 Usage
+Lancer le script :
+Copier le code
+Bash
+python3 imei_tracker.py
+Sélectionner le type de téléphone : Android ou iPhone
+Entrer les informations simulées demandées (IMEI, email, Apple ID)
 Suivre les instructions à l’écran pour voir l’animation et l’URL de localisation simulée
 🔹 Badges (optionnel, à coller sur GitHub)
 � � �
-
 🔹 Licence
- 
 Ce projet est sous MIT License.
 🔹 À propos de BCZ Academy
 BCZ Academy est une équipe africaine de cybersécurité et formation technologique qui, depuis 2023, forme et certifie des jeunes africains, filles et garçons, sur des compétences en programmation, sécurité informatique et hacking éthique.
 L’équipe a conçu ce projet pour apprendre, sensibiliser et protéger les jeunes face aux vols de téléphones et aux risques numériques.
-Copier le code
-
