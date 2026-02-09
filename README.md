@@ -1,53 +1,64 @@
 
-# 🛰️ IMEI Tracker v2.0
+# 🛰️ IMEI Tracker v2.0  
+### 🔐 Educational Cybersecurity Tool
 
-![BCZ Academy Logo](https://your-logo-link.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bladehack1/IMEI-Tracker/main/assets/bcz-banner.png" width="100%">
+</p>
 
-**Educational & Ethical Device Tracking Tool**  
-Developed by **BCZ Academy** for cybersecurity education in Africa 🇨🇲🌍
-
----
-
-## 🚀 About
-
-IMEI Tracker v2.0 is a **Python-based tool** designed for **educational purposes only**.  
-It demonstrates real-world concepts of **device tracking** through safe simulations, helping students and enthusiasts understand how phone tracking works **without violating privacy or the law**.
-
-**Purpose:**  
-- Learn **Android & iPhone tracking concepts**  
-- Practice **cybersecurity skills responsibly**  
-- Understand **IMEI and device identification**  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.x-blue">
+  <img src="https://img.shields.io/badge/Platform-Termux%20%7C%20Linux%20%7C%20PC-green">
+  <img src="https://img.shields.io/badge/Use-Educational-orange">
+  <img src="https://img.shields.io/badge/BCZ-Academy-red">
+</p>
 
 ---
 
-## 📌 Features
+## 🚀 Introduction
 
-- Interactive terminal interface with **Matrix & cyber animations**  
-- Android & iPhone tracking **simulations**  
-- **IMEI format validation**  
-- Redirection to **official services** for learning purposes  
-- **Educational & ethical use only**  
+**IMEI Tracker v2.0** est un outil **éducatif en Python**, développé par **BCZ Academy**, destiné à **l’apprentissage de la cybersécurité** et à la **sensibilisation contre le vol de téléphones**, un problème très répandu en Afrique 🇨🇲🌍.
+
+👉 L’outil **simule** le fonctionnement du tracking de téléphones **Android & iPhone**, **sans piratage**, **sans intrusion**, et **sans violation de la vie privée**.
 
 ---
 
-## ⚠️ Disclaimer
+## 🎯 Objectifs pédagogiques
 
-- Educational use only  
-- No real device intrusion  
-- No unauthorized tracking  
-- Use only with **permission and official platforms**  
-- © 2026 **BCZ Academy**
+- Comprendre le rôle de l’**IMEI**
+- Apprendre les bases du **device tracking**
+- Utiliser **Python + Termux**
+- Former les étudiants à une **cybersécurité éthique**
+- Lutter contre les abus technologiques
 
 ---
 
-## 📝 Instructions
+## 🧩 Fonctionnalités
 
-1. Clone or download this repository  
+- 🟢 Interface terminal **interactive**
+- 🟢 Animations **Matrix / Cyber**
+- 🟢 Validation IMEI (15 chiffres)
+- 🟢 Simulation Android & iPhone
+- 🟢 Redirection vers services officiels
+- 🟢 Compatible **Termux (Android)** & PC
+
+---
+
+## 📱 Installation complète sur Android (Termux)
+
+### 1️⃣ Télécharger Termux
+⚠️ **Ne pas utiliser le Play Store** (version obsolète)
+
+👉 Télécharger ici :  
+🔗 https://f-droid.org/packages/com.termux/
+
+Installer l’application **Termux** depuis F‑Droid.
+
+---
+
+### 2️⃣ Mettre à jour Termux
 ```bash
-git clone https://github.com/Bladehack1/IMEI-
-Tracker.git
-
-
+pkg update && pkg upgrade -y
 
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
