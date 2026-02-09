@@ -60,7 +60,68 @@ L’outil **simule** le fonctionnement du tracking de téléphones **Android & i
 ### 2️⃣ Mettre à jour Termux
 ```bash
 pkg update && pkg upgrade -y
+   
+### 3️⃣ Installer Python & Git
+```bash
+pkg install python git -y
 
+4️⃣ Télécharger IMEI Tracker
+
+git clone https://github.com/Bladehack1/IMEI-Tracker.git
+cd IMEI-Tracker
+
+5️⃣ Lancer le script
+
+python3 imei_tracker.py
+
+
+🎉 Le menu interactif s’affiche — choisissez Android ou iPhone et suivez les instructions (tout est simulé).
+💻 Installation sur PC / Linux / macOS
+
+1️⃣ Installer Python & Git
+
+Télécharger Python 3.x : https://www.python.org/downloads/�
+Télécharger Git : https://git-scm.com/downloads�
+
+2️⃣ Cloner le dépôt
+
+git clone https://github.com/Bladehack1/IMEI-Tracker.git
+cd IMEI-Tracker
+
+3️⃣ Lancer le script
+
+python3 imei_tracker.py
+
+⚠️ Usage & Disclaimer (Éducatif)
+🚫 INTERDIT :
+Traquer ou localiser un téléphone réel sans consentement explicite
+Utiliser à des fins illégales ou invasives
+Partager des identifiants réels (Gmail / Apple ID)
+✅ AUTORISÉ :
+Étude et formation
+Démonstration pédagogique et simulations
+Exercices en salle de cours avec consentement
+📚 Usage strictement éducatif — respecter la loi et l’éthique
+🏫 À propos de BCZ Academy
+BCZ Academy est une initiative africaine dédiée à la formation en cybersécurité et technologies :
+🛡️ Cybersécurité
+🧠 Ethical Hacking (responsable)
+💻 Développement Python & scripts
+📡 Réseaux, OSINT et sensibilisation anti-vol
+🎓 Plus de 50 jeunes formés — mission : former l’Afrique, protéger le futur
+🏷️ Topics GitHub
+python termux cybersecurity education ethical-hacking imei android africa bcz-academy simulation
+📦 Release
+🔖 Version : v2.0
+🟢 Latest Release : Yes
+📚 Type : Educational Release
+🔐 Sécurité & Protection du code
+Ce dépôt contient uniquement la version éducative / de démonstration.
+Le code sensible, les clés ou toute logique pouvant être utilisée pour un tracking réel sont gardés privés.
+Ajoutez en tête de vos fichiers importants :
+
+# © 2026 BCZ Academy
+# Educational use only. Unauthorized commercial or malicious use prohibited.
 
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
