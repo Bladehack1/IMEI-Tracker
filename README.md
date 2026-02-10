@@ -111,7 +111,18 @@ statut du téléphone (perdu / retrouvé – simulation)
 Revenir au menu
 Quitter le programme
 
+## ☕ Support the Developer
 
+If you enjoy using **IMEI Tracker v2.0** and want to support **BCZ Academy**, you can contribute to help us continue educational cybersecurity projects.
+
+### 💰 Airtel Money (DRC)
+<img src="https://github.com/Bladehack1/IMEI-Tracker/raw/main/Buy%20me%20a%20caffe%20img/1770692864765.png" width="100">  
+**Number:** +243970715508
+
+---
+
+🙏🏿 **Thank you for supporting ethical cybersecurity education in Africa!**  
+⚠️ **Educational use only — IMEI Tracker is a simulation, not for real tracking.**
 
 
 
