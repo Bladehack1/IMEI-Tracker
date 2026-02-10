@@ -124,7 +124,10 @@ If you enjoy using **IMEI Tracker v2.0** and want to support **BCZ Academy**, yo
 🙏🏿 **Thank you for supporting ethical cybersecurity education in Africa!**  
 ⚠️ **Educational use only — IMEI Tracker is a simulation, not for real tracking.**
 
+## ⭐ Donnez une étoile !
 
+Si vous appréciez **IMEI Tracker v2.0**, **donnez-lui une étoile sur GitHub** ⭐  
+Cela nous aide à continuer à créer des outils éducatifs en cybersécurité.
 
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
