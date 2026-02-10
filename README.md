@@ -1,3 +1,9 @@
+<h2 align="center">📸 Screenshot</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bladehack1/IMEI-Tracker/main/Screenshot_20260209-134256.png" width="600"/>
+</p>
+
 # 💻 IMEI Tracker v2.0
 
 **IMEI Tracker** est un outil **éducatif** développé par **l’équipe BCZ**, au sein de **BCZ Academy**, pour Termux.  
