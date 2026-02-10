@@ -113,18 +113,7 @@ Quitter le programme
 
 
 
-## ☕ Support the Developer
 
-If you enjoy using **IMEI Tracker v2.0** and want to support **BCZ Academy**, you can contribute to help us continue educational cybersecurity projects.
-
-### 💰 Airtel Money (DRC)
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Airtel_logo.svg/1200px-Airtel_logo.svg.png" width="100">  
-**Number:** +243970715508
-
----
-
-🙏🏿 **Thank you for supporting ethical cybersecurity education in Africa!**  
-⚠️ **Educational use only — IMEI Tracker is a simulation, not for real tracking.**
 
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
