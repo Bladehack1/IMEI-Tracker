@@ -133,3 +133,16 @@ Cela nous aide à continuer à créer des outils éducatifs en cybersécurité.
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Termux](https://img.shields.io/badge/Termux-supported-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
+![Version](https://img.shields.io/badge/Version-v2.0-green)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Educational](https://img.shields.io/badge/Use-Educational-orange)
+![BCZ Academy](https://img.shields.io/badge/BCZ-Academy-red)
+![Platform](https://img.shields.io/badge/Platform-Termux%20|%20PC-blue)
+
+<!-- Social / repo badges -->
+![GitHub stars](https://img.shields.io/github/stars/Bladehack1/IMEI-Tracker?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Bladehack1/IMEI-Tracker?style=social)
+![GitHub issues](https://img.shields.io/github/issues/Bladehack1/IMEI-Tracker)
+![GitHub last commit](https://img.shields.io/github/last-commit/Bladehack1/IMEI-Tracker)
+![GitHub contributors](https://img.shields.io/github/contributors/Bladehack1/IMEI-Tracker)
+
