@@ -1,1 +1,11 @@
 
+# Python
+*.pyc
+__pycache__/
+
+# Termux / sessions
+session.json
+*.log
+
+# VSCode / IDE
+.vscode/
